@@ -1,0 +1,51 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>@ViewBag.Title</title>
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+    <link href="~/Content/bootstrap-theme.css" rel="stylesheet" />
+    <link href="~/Content/ErrorStyle.css" rel="stylesheet" />
+    <script src="~/Scripts/jquery-1.10.2.js"></script>
+    <script src="~/Scripts/jquery.validate.js"></script>
+    <script src="~/Scripts/jquery.validate.unobtrusive.js"></script>
+    <script src="~/Scripts/imgUpload.js"></script>
+    <link href="~/Content/imgUpload.css" rel="stylesheet" />
+    <script src="~/Scripts/bootstrap.min.js"></script>
+    <link href="~/Content/font-awesome.min.css" rel="stylesheet" />
+    <link href="~/Content/GoTopBtn.css" rel="stylesheet" />
+    <link href="~/Content/Footer-with-social-icons.css" rel="stylesheet" />
+</head>
+<body>
+    
+
+
+
+    <div>
+            @if (TempData["message"] != null)
+            {
+                <div class="alert alert-success "> Book =>  @TempData["message"]</div>
+               
+            }
+       
+       
+
+
+        @RenderBody()
+      
+     
+
+    </div>
+   
+    
+    <!-- Start Back Top -->
+    <div id="back-top">
+        <i class="fa fa-angle-up"></i>
+    </div>
+
+    <!-- End Back Top -->
+    <script src="~/Scripts/GoTopBtn.js"></script>
+ 
+</body>
+</html>

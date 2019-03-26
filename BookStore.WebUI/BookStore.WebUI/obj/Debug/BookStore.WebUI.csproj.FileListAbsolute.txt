@@ -1,0 +1,210 @@
+C:\Users\Osama Ahmed\Desktop\BookStore DB Scripts\BookStore.WebUI\BookStore.WebUI\bin\roslyn\csc.exe
+C:\Users\Osama Ahmed\Desktop\BookStore DB Scripts\BookStore.WebUI\BookStore.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Osama Ahmed\Desktop\BookStore DB Scripts\BookStore.WebUI\BookStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Osama Ahmed\Desktop\BookStore DB Scripts\BookStore.WebUI\BookStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Osama Ahmed\Desktop\BookStore DB Scripts\BookStore.WebUI\BookStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Osama Ahmed\Desktop\BookStore DB Scripts\BookStore.WebUI\BookStore.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Osama Ahmed\Desktop\BookStore DB Scripts\BookStore.WebUI\BookStore.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Osama Ahmed\Desktop\BookStore DB Scripts\BookStore.WebUI\BookStore.WebUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Osama Ahmed\Desktop\BookStore DB Scripts\BookStore.WebUI\BookStore.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Osama Ahmed\Desktop\BookStore DB Scripts\BookStore.WebUI\BookStore.WebUI\bin\roslyn\vbc.exe
+C:\Users\Osama Ahmed\Desktop\BookStore DB Scripts\BookStore.WebUI\BookStore.WebUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Osama Ahmed\Desktop\BookStore DB Scripts\BookStore.WebUI\BookStore.WebUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Osama Ahmed\Desktop\BookStore DB Scripts\BookStore.WebUI\BookStore.WebUI\bin\BookStore.WebUI.dll.config
+C:\Users\Osama Ahmed\Desktop\BookStore DB Scripts\BookStore.WebUI\BookStore.WebUI\bin\BookStore.WebUI.dll
+C:\Users\Osama Ahmed\Desktop\BookStore DB Scripts\BookStore.WebUI\BookStore.WebUI\bin\BookStore.WebUI.pdb
+C:\Users\Osama Ahmed\Desktop\BookStore DB Scripts\BookStore.WebUI\BookStore.WebUI\bin\BookStore.Domain.dll
+C:\Users\Osama Ahmed\Desktop\BookStore DB Scripts\BookStore.WebUI\BookStore.WebUI\bin\EntityFramework.dll
+C:\Users\Osama Ahmed\Desktop\BookStore DB Scripts\BookStore.WebUI\BookStore.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\Osama Ahmed\Desktop\BookStore DB Scripts\BookStore.WebUI\BookStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Osama Ahmed\Desktop\BookStore DB Scripts\BookStore.WebUI\BookStore.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Osama Ahmed\Desktop\BookStore DB Scripts\BookStore.WebUI\BookStore.WebUI\bin\Moq.dll
+C:\Users\Osama Ahmed\Desktop\BookStore DB Scripts\BookStore.WebUI\BookStore.WebUI\bin\Ninject.dll
+C:\Users\Osama Ahmed\Desktop\BookStore DB Scripts\BookStore.WebUI\BookStore.WebUI\bin\Ninject.Web.Common.dll
+C:\Users\Osama Ahmed\Desktop\BookStore DB Scripts\BookStore.WebUI\BookStore.WebUI\bin\Ninject.Web.Mvc.dll
+C:\Users\Osama Ahmed\Desktop\BookStore DB Scripts\BookStore.WebUI\BookStore.WebUI\bin\System.Web.Helpers.dll
+C:\Users\Osama Ahmed\Desktop\BookStore DB Scripts\BookStore.WebUI\BookStore.WebUI\bin\System.Web.Mvc.dll
+C:\Users\Osama Ahmed\Desktop\BookStore DB Scripts\BookStore.WebUI\BookStore.WebUI\bin\System.Web.Razor.dll
+C:\Users\Osama Ahmed\Desktop\BookStore DB Scripts\BookStore.WebUI\BookStore.WebUI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Osama Ahmed\Desktop\BookStore DB Scripts\BookStore.WebUI\BookStore.WebUI\bin\System.Web.Webpages.dll
+C:\Users\Osama Ahmed\Desktop\BookStore DB Scripts\BookStore.WebUI\BookStore.WebUI\bin\System.Web.Webpages.Razor.dll
+C:\Users\Osama Ahmed\Desktop\BookStore DB Scripts\BookStore.WebUI\BookStore.WebUI\bin\WebActivator.dll
+C:\Users\Osama Ahmed\Desktop\BookStore DB Scripts\BookStore.WebUI\BookStore.WebUI\bin\BookStore.Domain.pdb
+C:\Users\Osama Ahmed\Desktop\BookStore DB Scripts\BookStore.WebUI\BookStore.WebUI\bin\EntityFramework.xml
+C:\Users\Osama Ahmed\Desktop\BookStore DB Scripts\BookStore.WebUI\BookStore.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\Osama Ahmed\Desktop\BookStore DB Scripts\BookStore.WebUI\BookStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Osama Ahmed\Desktop\BookStore DB Scripts\BookStore.WebUI\BookStore.WebUI\bin\Moq.xml
+C:\Users\Osama Ahmed\Desktop\BookStore DB Scripts\BookStore.WebUI\BookStore.WebUI\bin\Ninject.pdb
+C:\Users\Osama Ahmed\Desktop\BookStore DB Scripts\BookStore.WebUI\BookStore.WebUI\bin\Ninject.xml
+C:\Users\Osama Ahmed\Desktop\BookStore DB Scripts\BookStore.WebUI\BookStore.WebUI\bin\Ninject.Web.Common.pdb
+C:\Users\Osama Ahmed\Desktop\BookStore DB Scripts\BookStore.WebUI\BookStore.WebUI\bin\Ninject.Web.Common.xml
+C:\Users\Osama Ahmed\Desktop\BookStore DB Scripts\BookStore.WebUI\BookStore.WebUI\bin\Ninject.Web.Mvc.pdb
+C:\Users\Osama Ahmed\Desktop\BookStore DB Scripts\BookStore.WebUI\BookStore.WebUI\bin\Ninject.Web.Mvc.xml
+C:\Users\Osama Ahmed\Desktop\BookStore DB Scripts\BookStore.WebUI\BookStore.WebUI\bin\System.Web.Razor.xml
+C:\Users\Osama Ahmed\Desktop\BookStore DB Scripts\BookStore.WebUI\BookStore.WebUI\bin\System.Web.Webpages.xml
+C:\Users\Osama Ahmed\Desktop\BookStore DB Scripts\BookStore.WebUI\BookStore.WebUI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Osama Ahmed\Desktop\BookStore DB Scripts\BookStore.WebUI\BookStore.WebUI\bin\System.Web.Webpages.Razor.xml
+C:\Users\Osama Ahmed\Desktop\BookStore DB Scripts\BookStore.WebUI\BookStore.WebUI\bin\System.Web.Helpers.xml
+C:\Users\Osama Ahmed\Desktop\BookStore DB Scripts\BookStore.WebUI\BookStore.WebUI\bin\System.Web.Mvc.xml
+C:\Users\Osama Ahmed\Desktop\BookStore DB Scripts\BookStore.WebUI\BookStore.WebUI\obj\Debug\BookStore.WebUI.csprojResolveAssemblyReference.cache
+C:\Users\Osama Ahmed\Desktop\BookStore DB Scripts\BookStore.WebUI\BookStore.WebUI\obj\Debug\BookStore.WebUI.dll
+C:\Users\Osama Ahmed\Desktop\BookStore DB Scripts\BookStore.WebUI\BookStore.WebUI\obj\Debug\BookStore.WebUI.pdb
+C:\Users\Osama Ahmed\Desktop\BookStore.WebUI\BookStore.WebUI\bin\roslyn\csc.exe
+C:\Users\Osama Ahmed\Desktop\BookStore.WebUI\BookStore.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Osama Ahmed\Desktop\BookStore.WebUI\BookStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Osama Ahmed\Desktop\BookStore.WebUI\BookStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Osama Ahmed\Desktop\BookStore.WebUI\BookStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Osama Ahmed\Desktop\BookStore.WebUI\BookStore.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Osama Ahmed\Desktop\BookStore.WebUI\BookStore.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Osama Ahmed\Desktop\BookStore.WebUI\BookStore.WebUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Osama Ahmed\Desktop\BookStore.WebUI\BookStore.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Osama Ahmed\Desktop\BookStore.WebUI\BookStore.WebUI\bin\roslyn\vbc.exe
+C:\Users\Osama Ahmed\Desktop\BookStore.WebUI\BookStore.WebUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Osama Ahmed\Desktop\BookStore.WebUI\BookStore.WebUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Osama Ahmed\Desktop\BookStore.WebUI\BookStore.WebUI\bin\BookStore.WebUI.dll.config
+C:\Users\Osama Ahmed\Desktop\BookStore.WebUI\BookStore.WebUI\bin\BookStore.WebUI.dll
+C:\Users\Osama Ahmed\Desktop\BookStore.WebUI\BookStore.WebUI\bin\BookStore.WebUI.pdb
+C:\Users\Osama Ahmed\Desktop\BookStore.WebUI\BookStore.WebUI\bin\BookStore.Domain.dll
+C:\Users\Osama Ahmed\Desktop\BookStore.WebUI\BookStore.WebUI\bin\EntityFramework.dll
+C:\Users\Osama Ahmed\Desktop\BookStore.WebUI\BookStore.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\Osama Ahmed\Desktop\BookStore.WebUI\BookStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Osama Ahmed\Desktop\BookStore.WebUI\BookStore.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Osama Ahmed\Desktop\BookStore.WebUI\BookStore.WebUI\bin\Moq.dll
+C:\Users\Osama Ahmed\Desktop\BookStore.WebUI\BookStore.WebUI\bin\Ninject.dll
+C:\Users\Osama Ahmed\Desktop\BookStore.WebUI\BookStore.WebUI\bin\Ninject.Web.Common.dll
+C:\Users\Osama Ahmed\Desktop\BookStore.WebUI\BookStore.WebUI\bin\Ninject.Web.Mvc.dll
+C:\Users\Osama Ahmed\Desktop\BookStore.WebUI\BookStore.WebUI\bin\System.Web.Helpers.dll
+C:\Users\Osama Ahmed\Desktop\BookStore.WebUI\BookStore.WebUI\bin\System.Web.Mvc.dll
+C:\Users\Osama Ahmed\Desktop\BookStore.WebUI\BookStore.WebUI\bin\System.Web.Razor.dll
+C:\Users\Osama Ahmed\Desktop\BookStore.WebUI\BookStore.WebUI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Osama Ahmed\Desktop\BookStore.WebUI\BookStore.WebUI\bin\System.Web.Webpages.dll
+C:\Users\Osama Ahmed\Desktop\BookStore.WebUI\BookStore.WebUI\bin\System.Web.Webpages.Razor.dll
+C:\Users\Osama Ahmed\Desktop\BookStore.WebUI\BookStore.WebUI\bin\WebActivator.dll
+C:\Users\Osama Ahmed\Desktop\BookStore.WebUI\BookStore.WebUI\bin\BookStore.Domain.pdb
+C:\Users\Osama Ahmed\Desktop\BookStore.WebUI\BookStore.WebUI\bin\EntityFramework.xml
+C:\Users\Osama Ahmed\Desktop\BookStore.WebUI\BookStore.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\Osama Ahmed\Desktop\BookStore.WebUI\BookStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Osama Ahmed\Desktop\BookStore.WebUI\BookStore.WebUI\bin\Moq.xml
+C:\Users\Osama Ahmed\Desktop\BookStore.WebUI\BookStore.WebUI\bin\Ninject.pdb
+C:\Users\Osama Ahmed\Desktop\BookStore.WebUI\BookStore.WebUI\bin\Ninject.xml
+C:\Users\Osama Ahmed\Desktop\BookStore.WebUI\BookStore.WebUI\bin\Ninject.Web.Common.pdb
+C:\Users\Osama Ahmed\Desktop\BookStore.WebUI\BookStore.WebUI\bin\Ninject.Web.Common.xml
+C:\Users\Osama Ahmed\Desktop\BookStore.WebUI\BookStore.WebUI\bin\Ninject.Web.Mvc.pdb
+C:\Users\Osama Ahmed\Desktop\BookStore.WebUI\BookStore.WebUI\bin\Ninject.Web.Mvc.xml
+C:\Users\Osama Ahmed\Desktop\BookStore.WebUI\BookStore.WebUI\bin\System.Web.Razor.xml
+C:\Users\Osama Ahmed\Desktop\BookStore.WebUI\BookStore.WebUI\bin\System.Web.Webpages.xml
+C:\Users\Osama Ahmed\Desktop\BookStore.WebUI\BookStore.WebUI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Osama Ahmed\Desktop\BookStore.WebUI\BookStore.WebUI\bin\System.Web.Webpages.Razor.xml
+C:\Users\Osama Ahmed\Desktop\BookStore.WebUI\BookStore.WebUI\bin\System.Web.Helpers.xml
+C:\Users\Osama Ahmed\Desktop\BookStore.WebUI\BookStore.WebUI\bin\System.Web.Mvc.xml
+C:\Users\Osama Ahmed\Desktop\BookStore.WebUI\BookStore.WebUI\obj\Debug\BookStore.WebUI.csprojResolveAssemblyReference.cache
+C:\Users\Osama Ahmed\Desktop\BookStore.WebUI\BookStore.WebUI\obj\Debug\BookStore.WebUI.dll
+C:\Users\Osama Ahmed\Desktop\BookStore.WebUI\BookStore.WebUI\obj\Debug\BookStore.WebUI.pdb
+F:\mvc material\MVC ADEL\BookStore.WebUI-master\BookStore.WebUI\BookStore.WebUI\bin\roslyn\csc.exe
+F:\mvc material\MVC ADEL\BookStore.WebUI-master\BookStore.WebUI\BookStore.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\mvc material\MVC ADEL\BookStore.WebUI-master\BookStore.WebUI\BookStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\mvc material\MVC ADEL\BookStore.WebUI-master\BookStore.WebUI\BookStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\mvc material\MVC ADEL\BookStore.WebUI-master\BookStore.WebUI\BookStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\mvc material\MVC ADEL\BookStore.WebUI-master\BookStore.WebUI\BookStore.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\mvc material\MVC ADEL\BookStore.WebUI-master\BookStore.WebUI\BookStore.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\mvc material\MVC ADEL\BookStore.WebUI-master\BookStore.WebUI\BookStore.WebUI\bin\roslyn\System.Collections.Immutable.dll
+F:\mvc material\MVC ADEL\BookStore.WebUI-master\BookStore.WebUI\BookStore.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+F:\mvc material\MVC ADEL\BookStore.WebUI-master\BookStore.WebUI\BookStore.WebUI\bin\roslyn\vbc.exe
+F:\mvc material\MVC ADEL\BookStore.WebUI-master\BookStore.WebUI\BookStore.WebUI\bin\roslyn\VBCSCompiler.exe
+F:\mvc material\MVC ADEL\BookStore.WebUI-master\BookStore.WebUI\BookStore.WebUI\bin\roslyn\VBCSCompiler.exe.config
+F:\mvc material\MVC ADEL\BookStore.WebUI-master\BookStore.WebUI\BookStore.WebUI\bin\BookStore.WebUI.dll.config
+F:\mvc material\MVC ADEL\BookStore.WebUI-master\BookStore.WebUI\BookStore.WebUI\bin\BookStore.WebUI.dll
+F:\mvc material\MVC ADEL\BookStore.WebUI-master\BookStore.WebUI\BookStore.WebUI\bin\BookStore.WebUI.pdb
+F:\mvc material\MVC ADEL\BookStore.WebUI-master\BookStore.WebUI\BookStore.WebUI\bin\BookStore.Domain.dll
+F:\mvc material\MVC ADEL\BookStore.WebUI-master\BookStore.WebUI\BookStore.WebUI\bin\EntityFramework.dll
+F:\mvc material\MVC ADEL\BookStore.WebUI-master\BookStore.WebUI\BookStore.WebUI\bin\EntityFramework.SqlServer.dll
+F:\mvc material\MVC ADEL\BookStore.WebUI-master\BookStore.WebUI\BookStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\mvc material\MVC ADEL\BookStore.WebUI-master\BookStore.WebUI\BookStore.WebUI\bin\Microsoft.Web.Infrastructure.dll
+F:\mvc material\MVC ADEL\BookStore.WebUI-master\BookStore.WebUI\BookStore.WebUI\bin\Moq.dll
+F:\mvc material\MVC ADEL\BookStore.WebUI-master\BookStore.WebUI\BookStore.WebUI\bin\Ninject.dll
+F:\mvc material\MVC ADEL\BookStore.WebUI-master\BookStore.WebUI\BookStore.WebUI\bin\Ninject.Web.Common.dll
+F:\mvc material\MVC ADEL\BookStore.WebUI-master\BookStore.WebUI\BookStore.WebUI\bin\Ninject.Web.Mvc.dll
+F:\mvc material\MVC ADEL\BookStore.WebUI-master\BookStore.WebUI\BookStore.WebUI\bin\System.Web.Helpers.dll
+F:\mvc material\MVC ADEL\BookStore.WebUI-master\BookStore.WebUI\BookStore.WebUI\bin\System.Web.Mvc.dll
+F:\mvc material\MVC ADEL\BookStore.WebUI-master\BookStore.WebUI\BookStore.WebUI\bin\System.Web.Razor.dll
+F:\mvc material\MVC ADEL\BookStore.WebUI-master\BookStore.WebUI\BookStore.WebUI\bin\System.Web.Webpages.Deployment.dll
+F:\mvc material\MVC ADEL\BookStore.WebUI-master\BookStore.WebUI\BookStore.WebUI\bin\System.Web.Webpages.dll
+F:\mvc material\MVC ADEL\BookStore.WebUI-master\BookStore.WebUI\BookStore.WebUI\bin\System.Web.Webpages.Razor.dll
+F:\mvc material\MVC ADEL\BookStore.WebUI-master\BookStore.WebUI\BookStore.WebUI\bin\WebActivator.dll
+F:\mvc material\MVC ADEL\BookStore.WebUI-master\BookStore.WebUI\BookStore.WebUI\bin\BookStore.Domain.pdb
+F:\mvc material\MVC ADEL\BookStore.WebUI-master\BookStore.WebUI\BookStore.WebUI\bin\BookStore.Domain.dll.config
+F:\mvc material\MVC ADEL\BookStore.WebUI-master\BookStore.WebUI\BookStore.WebUI\bin\EntityFramework.xml
+F:\mvc material\MVC ADEL\BookStore.WebUI-master\BookStore.WebUI\BookStore.WebUI\bin\EntityFramework.SqlServer.xml
+F:\mvc material\MVC ADEL\BookStore.WebUI-master\BookStore.WebUI\BookStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\mvc material\MVC ADEL\BookStore.WebUI-master\BookStore.WebUI\BookStore.WebUI\bin\Moq.xml
+F:\mvc material\MVC ADEL\BookStore.WebUI-master\BookStore.WebUI\BookStore.WebUI\bin\Ninject.pdb
+F:\mvc material\MVC ADEL\BookStore.WebUI-master\BookStore.WebUI\BookStore.WebUI\bin\Ninject.xml
+F:\mvc material\MVC ADEL\BookStore.WebUI-master\BookStore.WebUI\BookStore.WebUI\bin\Ninject.Web.Common.pdb
+F:\mvc material\MVC ADEL\BookStore.WebUI-master\BookStore.WebUI\BookStore.WebUI\bin\Ninject.Web.Common.xml
+F:\mvc material\MVC ADEL\BookStore.WebUI-master\BookStore.WebUI\BookStore.WebUI\bin\Ninject.Web.Mvc.pdb
+F:\mvc material\MVC ADEL\BookStore.WebUI-master\BookStore.WebUI\BookStore.WebUI\bin\Ninject.Web.Mvc.xml
+F:\mvc material\MVC ADEL\BookStore.WebUI-master\BookStore.WebUI\BookStore.WebUI\bin\System.Web.Razor.xml
+F:\mvc material\MVC ADEL\BookStore.WebUI-master\BookStore.WebUI\BookStore.WebUI\bin\System.Web.Webpages.xml
+F:\mvc material\MVC ADEL\BookStore.WebUI-master\BookStore.WebUI\BookStore.WebUI\bin\System.Web.Webpages.Deployment.xml
+F:\mvc material\MVC ADEL\BookStore.WebUI-master\BookStore.WebUI\BookStore.WebUI\bin\System.Web.Webpages.Razor.xml
+F:\mvc material\MVC ADEL\BookStore.WebUI-master\BookStore.WebUI\BookStore.WebUI\bin\System.Web.Helpers.xml
+F:\mvc material\MVC ADEL\BookStore.WebUI-master\BookStore.WebUI\BookStore.WebUI\bin\System.Web.Mvc.xml
+F:\mvc material\MVC ADEL\BookStore.WebUI-master\BookStore.WebUI\BookStore.WebUI\obj\Debug\BookStore.WebUI.csprojResolveAssemblyReference.cache
+F:\mvc material\MVC ADEL\BookStore.WebUI-master\BookStore.WebUI\BookStore.WebUI\obj\Debug\BookStore.WebUI.csproj.CoreCompileInputs.cache
+F:\mvc material\MVC ADEL\BookStore.WebUI-master\BookStore.WebUI\BookStore.WebUI\obj\Debug\BookStore.WebUI.csproj.CopyComplete
+F:\mvc material\MVC ADEL\BookStore.WebUI-master\BookStore.WebUI\BookStore.WebUI\obj\Debug\BookStore.WebUI.dll
+F:\mvc material\MVC ADEL\BookStore.WebUI-master\BookStore.WebUI\BookStore.WebUI\obj\Debug\BookStore.WebUI.pdb
+E:\mywork\BookStore\BookStore.WebUI\BookStore.WebUI\bin\roslyn\csc.exe
+E:\mywork\BookStore\BookStore.WebUI\BookStore.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\mywork\BookStore\BookStore.WebUI\BookStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\mywork\BookStore\BookStore.WebUI\BookStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\mywork\BookStore\BookStore.WebUI\BookStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\mywork\BookStore\BookStore.WebUI\BookStore.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\mywork\BookStore\BookStore.WebUI\BookStore.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\mywork\BookStore\BookStore.WebUI\BookStore.WebUI\bin\roslyn\System.Collections.Immutable.dll
+E:\mywork\BookStore\BookStore.WebUI\BookStore.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+E:\mywork\BookStore\BookStore.WebUI\BookStore.WebUI\bin\roslyn\vbc.exe
+E:\mywork\BookStore\BookStore.WebUI\BookStore.WebUI\bin\roslyn\VBCSCompiler.exe
+E:\mywork\BookStore\BookStore.WebUI\BookStore.WebUI\bin\roslyn\VBCSCompiler.exe.config
+E:\mywork\BookStore\BookStore.WebUI\BookStore.WebUI\bin\BookStore.WebUI.dll.config
+E:\mywork\BookStore\BookStore.WebUI\BookStore.WebUI\bin\BookStore.WebUI.dll
+E:\mywork\BookStore\BookStore.WebUI\BookStore.WebUI\bin\BookStore.WebUI.pdb
+E:\mywork\BookStore\BookStore.WebUI\BookStore.WebUI\bin\BookStore.Domain.dll
+E:\mywork\BookStore\BookStore.WebUI\BookStore.WebUI\bin\EntityFramework.dll
+E:\mywork\BookStore\BookStore.WebUI\BookStore.WebUI\bin\EntityFramework.SqlServer.dll
+E:\mywork\BookStore\BookStore.WebUI\BookStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\mywork\BookStore\BookStore.WebUI\BookStore.WebUI\bin\Microsoft.Web.Infrastructure.dll
+E:\mywork\BookStore\BookStore.WebUI\BookStore.WebUI\bin\Moq.dll
+E:\mywork\BookStore\BookStore.WebUI\BookStore.WebUI\bin\Ninject.dll
+E:\mywork\BookStore\BookStore.WebUI\BookStore.WebUI\bin\Ninject.Web.Common.dll
+E:\mywork\BookStore\BookStore.WebUI\BookStore.WebUI\bin\Ninject.Web.Mvc.dll
+E:\mywork\BookStore\BookStore.WebUI\BookStore.WebUI\bin\System.Web.Helpers.dll
+E:\mywork\BookStore\BookStore.WebUI\BookStore.WebUI\bin\System.Web.Mvc.dll
+E:\mywork\BookStore\BookStore.WebUI\BookStore.WebUI\bin\System.Web.Razor.dll
+E:\mywork\BookStore\BookStore.WebUI\BookStore.WebUI\bin\System.Web.Webpages.Deployment.dll
+E:\mywork\BookStore\BookStore.WebUI\BookStore.WebUI\bin\System.Web.Webpages.dll
+E:\mywork\BookStore\BookStore.WebUI\BookStore.WebUI\bin\System.Web.Webpages.Razor.dll
+E:\mywork\BookStore\BookStore.WebUI\BookStore.WebUI\bin\WebActivator.dll
+E:\mywork\BookStore\BookStore.WebUI\BookStore.WebUI\bin\BookStore.Domain.pdb
+E:\mywork\BookStore\BookStore.WebUI\BookStore.WebUI\bin\BookStore.Domain.dll.config
+E:\mywork\BookStore\BookStore.WebUI\BookStore.WebUI\bin\EntityFramework.xml
+E:\mywork\BookStore\BookStore.WebUI\BookStore.WebUI\bin\EntityFramework.SqlServer.xml
+E:\mywork\BookStore\BookStore.WebUI\BookStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\mywork\BookStore\BookStore.WebUI\BookStore.WebUI\bin\Moq.xml
+E:\mywork\BookStore\BookStore.WebUI\BookStore.WebUI\bin\Ninject.pdb
+E:\mywork\BookStore\BookStore.WebUI\BookStore.WebUI\bin\Ninject.xml
+E:\mywork\BookStore\BookStore.WebUI\BookStore.WebUI\bin\Ninject.Web.Common.pdb
+E:\mywork\BookStore\BookStore.WebUI\BookStore.WebUI\bin\Ninject.Web.Common.xml
+E:\mywork\BookStore\BookStore.WebUI\BookStore.WebUI\bin\Ninject.Web.Mvc.pdb
+E:\mywork\BookStore\BookStore.WebUI\BookStore.WebUI\bin\Ninject.Web.Mvc.xml
+E:\mywork\BookStore\BookStore.WebUI\BookStore.WebUI\bin\System.Web.Razor.xml
+E:\mywork\BookStore\BookStore.WebUI\BookStore.WebUI\bin\System.Web.Webpages.xml
+E:\mywork\BookStore\BookStore.WebUI\BookStore.WebUI\bin\System.Web.Webpages.Deployment.xml
+E:\mywork\BookStore\BookStore.WebUI\BookStore.WebUI\bin\System.Web.Webpages.Razor.xml
+E:\mywork\BookStore\BookStore.WebUI\BookStore.WebUI\bin\System.Web.Helpers.xml
+E:\mywork\BookStore\BookStore.WebUI\BookStore.WebUI\bin\System.Web.Mvc.xml
+E:\mywork\BookStore\BookStore.WebUI\BookStore.WebUI\obj\Debug\BookStore.WebUI.csprojResolveAssemblyReference.cache
+E:\mywork\BookStore\BookStore.WebUI\BookStore.WebUI\obj\Debug\BookStore.WebUI.csproj.CoreCompileInputs.cache
+E:\mywork\BookStore\BookStore.WebUI\BookStore.WebUI\obj\Debug\BookStore.WebUI.csproj.CopyComplete
+E:\mywork\BookStore\BookStore.WebUI\BookStore.WebUI\obj\Debug\BookStore.WebUI.dll
+E:\mywork\BookStore\BookStore.WebUI\BookStore.WebUI\obj\Debug\BookStore.WebUI.pdb
